@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+
+# SQLite database
+backend/sentiment.db
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Testing and editor files
+.pytest_cache/
+.vscode/
